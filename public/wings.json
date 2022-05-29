@@ -1,0 +1,8 @@
+[
+    {
+        "title": "Wings & Fries",
+        "description": "Comes with Fries",
+        "price": 12.00,
+        "img": "./images/wing.jpg"
+    }
+]

@@ -1,0 +1,16 @@
+.footer {
+    background-color: #FBFEFE;
+    padding: 15px 32px;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.footer > div {
+    width: 30%;
+}
+
+.footer a {
+    color: #06ADA8;
+}

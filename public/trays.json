@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Fish Tray",
+        "description": "Comes with 6 free Sauces",
+        "price": 18.00,
+        "img": "./images/fish.jpg"
+    },
+    {
+        "title": "Tender Tray",
+        "description": "Comes with 6 free Sauces",
+        "price": 35.00,
+        "img": "./images/tender.jpg"
+    },
+    {
+        "title": "Wings Tray",
+        "description": "Comes with 6 free Sauces",
+        "price": 22.00,
+        "img": "./images/wtray.jpg"
+    }
+]

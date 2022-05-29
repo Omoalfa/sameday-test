@@ -1,0 +1,24 @@
+.content-nav {
+    display: flex;
+    padding: 10px;
+    padding-bottom: 0;
+    border: none;
+    border-bottom: 1px #BCCCDC solid;
+    align-items: center;
+}
+
+.content-nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.content-nav li {
+    padding: 10px 0;
+    margin: 0 10px;
+}
+
+.content-nav li.active {
+    border-bottom: 2px black solid;
+}

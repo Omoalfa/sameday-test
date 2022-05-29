@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Hat Trick Breakfast",
+        "description": "Three eggs any style, three strips of bacon or three sausage links and ...",
+        "price": 18.99,
+        "img": "./images/hat.jpg"
+    },
+    {
+        "title": "Double Down Breakfast",
+        "description": "Two eggs any style, two strips of bacon or two sausage links, toast ...",
+        "price": 19.85,
+        "img": "./images/double.jpg"
+    },
+    {
+        "title": "Egg Bagel Sandwich",
+        "description": "Fried egg, American chees and diced ham, baconn strips or a sausage patty ... ",
+        "price": 15.75,
+        "img": "./images/bagel.jpg"
+    },
+    {
+        "title": "Wings & Fries",
+        "description": "Comes with Fries",
+        "price": 18.46,
+        "img": null
+    },
+    {
+        "title": "Pick 2 & Fries",
+        "description": "Comes with fries and any sauce you want",
+        "price": 8.50,
+        "img": "./images/pick2.jpg"
+    },
+    {
+        "title": "Hush Puppies",
+        "description": "",
+        "price": 13.97,
+        "img": "./images/hush.jpg"
+    },
+    {
+        "title": "Mozarella Sticks",
+        "description": "Comes with Marinara Sauce",
+        "price": 14.09,
+        "img": "./images/mozarella.jpg"
+    },
+    {
+        "title": "Shrimp & Fries",
+        "description": "Comes with Fries",
+        "price": 5.02,
+        "img": "./images/shrimp.jpg"
+    }
+]
